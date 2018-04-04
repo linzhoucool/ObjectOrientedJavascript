@@ -25,7 +25,7 @@ const washingMachine = {
 let {rinse, spin, dry} = washingMachine;
 ```
 
-5. Whan using object literal shorthand, do we always need to skip the assignment of the property? For example, can we still do this?
+5. When using object literal shorthand, do we always need to skip the assignment of the property? For example, can we still do this?
 
 ```javascript
 let someVar = "stringsssss"
