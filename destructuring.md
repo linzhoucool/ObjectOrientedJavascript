@@ -25,7 +25,7 @@ const washingMachine = {
 let {rinse, spin, dry} = washingMachine;
 ```
 
-5. Given what we know about object literal shorthand, does the following code still work?
+5. What do you expect to be printed when the following code is executed?
 
 ```javascript
 let someVar = "stringsssss"
