@@ -9,3 +9,5 @@
 [CSS Template Literals](https://css-tricks.com/template-literals/)
 
 [Template Literals Research Questions](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/template-literal-research-questions.md)
+
+[Object Literal and Destructuring Questions](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/destructuring.md)
