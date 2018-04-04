@@ -6,7 +6,7 @@
 
 [Var, Let and Const Research Questions](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/var-let-const-questions.md)
 
-[CSS Template Literals](https://css-tricks.com/template-literals/)
+[JS Template Literals](https://css-tricks.com/template-literals/)
 
 [Template Literals Research Questions](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/template-literal-research-questions.md)
 
