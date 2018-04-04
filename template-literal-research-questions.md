@@ -1,4 +1,4 @@
-### Template Literals
+# Template Literals
 
 1. To use a template literal, what do we need to enclose our strings within?
 
