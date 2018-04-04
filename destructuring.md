@@ -33,6 +33,8 @@ let someVar = "stringsssss"
 const object = {
   someVar: "variablesss"
 }
+
+object.someVar
 ```
 
 6. Write 1 of your own destructuring question to try to stump your classmates.
