@@ -10,8 +10,8 @@
 
 5. How do we concatenate template literals using the `+`? If it's possible, demostrate by writing your own example.
 
-6. How do we interpret variables in our strings using template literals? Demonstrate by writing your own example.
+6. How do we use variables in our strings using template literals? Demonstrate by writing your own example.
 
-7. How do we interpret expressions in our strings using template literals? Demonstrate by writing your own example.
+7. How do we use expressions in our strings using template literals? Demonstrate by writing your own example.
 
 8. Can we use HTML inside a template literal? If So, create a simple HTML skeletonsdocument inside a string literal. (feel free to include only the `html`, `head` and `body` tags)
