@@ -92,13 +92,13 @@ console.log(name);
 
 ## 6 
 
-Without modifying either of the `console.log`, prevent `console.log` from printing `i`
+Without modifying either of the `console.log`, prevent the `console.log` outside the `for` loop from printing `i`
 
 ```javascript
 var arr = new Array(3);
  
 for (var i = 0; i<arr.length; i++) {
-  console.log(i); // 0,1,2,3
+  console.log(i); // 0,1,2
 }
  
 console.log(i); // 3
