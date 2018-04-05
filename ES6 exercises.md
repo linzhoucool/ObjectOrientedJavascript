@@ -46,7 +46,7 @@ console.log(message)
 ```
 
 
-use a template literal to produce the following string. 
+use a template literal to produce the following string. Feel free to add more than one line of code.
 
 ```
 There are 4 people on the tooling team.
