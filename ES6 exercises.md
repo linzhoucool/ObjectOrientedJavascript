@@ -59,7 +59,7 @@ Make sure the numbers, names, and team name actually come from the data.
 ---
 ## 4
 
-Simplify the return value in this function by replacing instances of `concat` with the spread syntax.
+Change the return value in this function by replacing instances of `concat` with the spread syntax.
 
 `copyReplace` replaces part of an array with elements from another array, and returns a new `array`.
 
