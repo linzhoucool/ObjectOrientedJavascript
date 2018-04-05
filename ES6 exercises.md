@@ -125,9 +125,7 @@ console.log("Without Spread Operator: ",alphabet); //[a,b,c,d,e,f,g,h,i]
 
 Write a function that takes in an undefined amount of parameters, loops through each of them using a `for...of` loop and prints out each of the parameters to the console.
 
-Use your function to print the following 
-
-Write that uses a `...rest` parameter, a `for...of` loop and `template literals`
+Ensure the function uses a `...rest` parameter, a `for...of` loop and `template literals`
 
 It should produce the following output:
 
