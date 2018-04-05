@@ -12,4 +12,6 @@
 
 [Object Literal and Destructuring Questions](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/destructuring.md)
 
-[ES Research Question Submission](https://www.dropbox.com/request/2XcGirHfVedAxxvvS9YW)
+[ES6 Research Question Submission](https://www.dropbox.com/request/2XcGirHfVedAxxvvS9YW)
+
+[ES6 Exercises](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/ES6%20exercises.md)
