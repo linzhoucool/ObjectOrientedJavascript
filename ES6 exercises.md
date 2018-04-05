@@ -46,14 +46,14 @@ console.log(message)
 ```
 
 
-use a template literal to produce the following string. Feel free to add more than one line of code.
+use a template literal to produce the following string. 
 
 ```
 There are 4 people on the tooling team.
 Their names are John, David, Joseph, Dennis.
 2 of them have a senior role.
 ```
-
+Feel free to add more than one line of code.
 Make sure the numbers, names, and team name actually come from the data.
 
 ---
