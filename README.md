@@ -15,3 +15,7 @@
 [ES6 Research Question Submission](https://www.dropbox.com/request/2XcGirHfVedAxxvvS9YW)
 
 [ES6 Exercises](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/ES6%20exercises.md)
+
+### Objects in Depth
+
+[Intro to Objects Worksheet](https://github.com/jniziol/ObjectOrientedJavascript/raw/master/IntroToObjects.js)
