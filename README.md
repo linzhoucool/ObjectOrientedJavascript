@@ -18,4 +18,4 @@
 
 ### Objects in Depth
 
-[Intro to Objects Worksheet](https://github.com/jniziol/ObjectOrientedJavascript/raw/master/IntroToObjects.js)
+[Intro to Objects Practice](https://github.com/jniziol/ObjectOrientedJavascript/raw/master/IntroToObjects.js)
