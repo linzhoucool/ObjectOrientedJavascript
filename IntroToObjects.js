@@ -1,8 +1,10 @@
+// Welcome to my computer store. I build computers here and sell
+// Them for profit. I'm glad you're here to help!
+
 // This function returns a random element from a given array
 const randomElement = function(array) {
   return array[Math.floor(Math.random()*array.length)]
 }
-
 
 const brands = ["Apple", "Dell", "Asus", "Acer", "Samsung", "HP", "BenQ"];
 const cpus = ["Core i7", "Xeon", "Pentium", "Athlon", "ARM", "Celeron"];
@@ -13,24 +15,29 @@ const price = [125, 899, 1999, 5000, 300, 1000000]
 const computers = [];
 
 for(let x = 0; x < 10; x++) {
-  // Create an array of new objects here
+  // Create a bunch of new computers here
   // Add them to the array of 'computers' created above
+  // This will be my inventory.
   
   // Eeach object should be created using object literal syntax
   // Each object should have a random CPU, a random amount of RAM and a random size
-  // Hard Disk Drive (HDD), and a random brand assigned, using the function randomElement
+  // Hard Disk Drive (HDD),a random brand, and a random price using the function randomElement
   // declared above.
 
-  // each computer should also have a function called boot() that will set a property
+  // each computer should also have a function called boot() that will set a property of 'running' to true
+  // and prints out "Booting up!"
+  // if it's already running when you call boot(), it should print out "Already on!"
+  
   // each computer should also have a function called shutdown() that will set the property of
-  // 'running' to false
+  // 'running' to false and print. "Shutting Down" Stopping. If the computer was already off, 
+  // print "Still off!"
 }
 
 for(const computer of computers) {
   // Ooops, I forgot, some computers are Laptops and some are Desktops
   // We better at that now
-  // You should try using the square bracket notation '[]' you learned in udacity to 
-  // add a random computer type to computer
+  // You should try using the square bracket notation '[]' you learned in Udacity to 
+  // add a random computer type to each of the computers in our inventory
 }
 
 // Great, lets see what you got!
