@@ -70,6 +70,7 @@ function removeComponent(component, computer) {
 // Please add another one using the object constructor notation.
 // It has the following properties: 
 // It's an Apple, Core 2 Duo w/ 2GB of RAM and 250GB HardDrive
+// Make sure you add the computer methods shutdown() and boot()
 // oh, and it's a laptop.
 
 const newComputer = new Object(); // Here, I even got your object started
