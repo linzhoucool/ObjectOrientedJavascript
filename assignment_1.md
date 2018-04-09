@@ -14,7 +14,7 @@ You can NOT submit more than 1 file.
 
 See Assignment #1 rubric from evaluation criteria
 
-NO LATE ASSIGNMENTS WILL BE ACCEPTED
+**NO LATE ASSIGNMENTS WILL BE ACCEPTED**
 
 ---
 
