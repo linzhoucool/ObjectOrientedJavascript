@@ -83,20 +83,15 @@ function aRandomFunction(){
 
 ### 5
 
-Declare a new function that is within the function scope `addToWindow`. This new function you write should have the name `printMe` that prints out the followinginside  function that prints out 
+Using the following function declarations, perform the following tasks:
+1. Invoke addToWindowAndPrint and have it print "AddToWindowAndPrint is Great!"
+2. Invoke printMe and have it print "printMe is Even Better!"
 
 ```javascript
 function addToWindowAndPrint(stringToPrint) {
-  // Your Code
-  // Here
+  function printMe(stringToPrint) {
+    console.log(`printMe ${stringToPrint}`)
+  }
   console.log(`AddToWindow ${stringToPrint}`)
 } 
-
-// Move me inside of the function above
-function printMe(stringToPrint) {
-  console.log(`printMe ${stringToPrint}`)
-}
-
-// Invoke addToWindowAndPrint and have it print "AddToWindowAndPrint is Great!"
-// Invoke printMe and have it print "printMe is Event Better!"
 ```
