@@ -51,7 +51,7 @@ Where `car color` is the spefic color of the car object on which the method was 
 1. 2 of the car objects must be created using object literal syntax
 2. 2 of the car objects must be created using the object constructor
 3. Write a global method that will take in 1 color string and 1 car object and will update the color of the provided car object to the color provided in the string. This function is not allowed to have a return value.
-4. Use the method you just wrote 4 times to update the color of a car object(s) 4 times.
+4. Use the method you just wrote on each car object to update it's color.
 5. Use a `for..of` loop to call the `drive` method of each car object
 
 ---
