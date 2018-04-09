@@ -19,3 +19,7 @@
 ### Objects in Depth
 
 [Intro to Objects Practice](https://github.com/jniziol/ObjectOrientedJavascript/raw/master/IntroToObjects.js)
+
+[Assignment #1](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/assignment_1.md)
+
+[Assignment #1 Rubric](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/SD120%20Assignment%20%231%20-%20Rubric.pdf)
