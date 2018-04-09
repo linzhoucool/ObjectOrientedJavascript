@@ -12,7 +12,7 @@ A `.zip` file containing all your solution files should be uploaded to the [Assi
 
 You can NOT submit more than 1 file. 
 
-See Assignment #1 rubric from evaluation criteria
+See [Assignment #1 rubric](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/SD120%20Assignment%20%231%20-%20Rubric.pdf) for the evaluation criteria.
 
 **NO LATE ASSIGNMENTS WILL BE ACCEPTED**
 
