@@ -83,7 +83,7 @@ function aRandomFunction(){
 
 ### 5
 
-Declare a new function that is within the function scope `addToWindow`. This new function you write should have the name `printMe` that prints out the following 
+Declare a new function that is within the function scope `addToWindowAndPrint`. This new function you write should have the name `printMe` that prints out the following 
 
 ```
 "printMe is Even Better!"
