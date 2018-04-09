@@ -1,6 +1,6 @@
 # SD-120 Assignment #1
 
-## ES6 Syntax, Object Basics, and `this`
+### ES6 Syntax, Object Basics, and `this`
 
 You should create one `.js` for each each of the questions below. Clearly identify which file answers which question by specifying question in the filename.
 
@@ -18,7 +18,7 @@ See [Assignment #1 rubric](https://github.com/jniziol/ObjectOrientedJavascript/b
 
 ---
 
-## 1
+### 1
 
 Write a function called `determineLargest` that will accept in any amount of Numbers.
 Using a `for..of` loop, iterate through all the numbers and determine which is the largest.
@@ -36,7 +36,7 @@ Where X, Y and Z are all the numbers passed into the function
 Demonstrate your function works by calling it with at least 5 parameters.
 
 ---
-## 2
+### 2
 
 Create a 4 car objects that have the following properties: `color`, `brand`, and `price`. The object should also have a method `drive`, when used, will print out the following:
 
@@ -47,7 +47,7 @@ Create a 4 car objects that have the following properties: `color`, `brand`, and
 
 Where `car color` is the spefic color of the car object on which the method was invoked.
 
-### Additional Requirements
+#### Additional Requirements
 1. 2 of the car objects must be created using object literal syntax
 2. 2 of the car objects must be created using the object constructor
 3. Write a global method that will take in 1 color string and 1 car object and will update the color of the provided car object to the color provided in the string. This function is not allowed to have a return value.
@@ -56,14 +56,14 @@ Where `car color` is the spefic color of the car object on which the method was 
 
 ---
 
-## 3
+### 3
 
 Create an object called `person` with the following properties: `hairColor`, `eyeColor`, `height`
 `name`
 
 You must define method `walk` on your object. When called, the `walk` method will use the 'this' keyword to add a new property on the object called `speed` and set it `15km` and a new property called `walking` and set it to `true`
 
-## 4
+### 4
 
 Using the code below, use the `this` keyword to print out both the useMe variable that is declared outside of the function `aRandomFunction` and the one declared on the inside of the function
 
@@ -81,7 +81,7 @@ function aRandomFunction(){
 
 ---
 
-## 5
+### 5
 
 Declare a new function that is within the function scope `addToWindow`. This new function you write should have the name `printMe` that prints out the followinginside  function that prints out 
 
