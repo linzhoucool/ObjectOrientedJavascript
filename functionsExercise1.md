@@ -51,7 +51,7 @@ function myFilter(array, func) {
   //your code here
 }
 
-console.log(myFilter([1,2,3,4],(function(num){ return num > 3})) // should return [4]
+console.log(myFilter([1,2,3,4],(function(num){ return num > 3}))) // should return [4]
 
 ```
 
