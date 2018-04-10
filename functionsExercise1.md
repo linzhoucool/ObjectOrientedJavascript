@@ -1,6 +1,6 @@
 ## 1
 
-Given an input `n`, write a function always that returns a function which returns `n`.
+Given an input `n`, write a function `always` that returns a function which returns `n`.
 
 ```javascript
 var three = always(3);
