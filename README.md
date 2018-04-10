@@ -23,3 +23,7 @@
 [Assignment #1](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/assignment_1.md)
 
 [Assignment #1 Rubric](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/SD120%20Assignment%20%231%20-%20Rubric.pdf)
+
+### Functions at Runtime
+
+[Functions Exercise #1](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/functionsExercise1.md)
