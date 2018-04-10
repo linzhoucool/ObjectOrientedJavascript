@@ -74,7 +74,7 @@ function sum(...numbers) {
   return numbers.reduce(add, 0);
 }
 
-function add(a + b) {
+function add(a, b) {
   return a + b;
 }
 
