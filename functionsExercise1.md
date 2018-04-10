@@ -65,21 +65,13 @@ Write a function called `delay` that will accept a callback function as a parame
 
 Test it out.
 
-## 5 
-
-var list1 = [
-  { firstName: 'Emma', lastName: 'Z.', country: 'Netherlands', continent: 'Europe', age: 29, language: 'Ruby' },
-  { firstName: 'Piotr', lastName: 'B.', country: 'Poland', continent: 'Europe', age: 128, language: 'Javascript' },
-  { firstName: 'Jayden', lastName: 'P.', country: 'Jamaica', continent: 'Americas', age: 42, language: 'JavaScript' }
-];
-
-## 6
+## 5
 
 What is the length of the `sum` function? How about the `add` function?
 
 ```javascript
 function sum(...numbers) {
-  return number.reduce(add, 0);
+  return numbers.reduce(add, 0);
 }
 
 function add(a + b) {
@@ -91,7 +83,7 @@ sum(4, 6, 7, 8, 32, 45);
 
 --- 
 
-## 7 
+## 6
 You are given an array of objects representing info about developers who have signed up to attend a coding. The list is ordered according to who signed up first.
 
 Your task is to return one of the following strings:
@@ -112,7 +104,7 @@ In this instance your function should return Victoria, Puerto Rico.
 
 ---
 
-## 8 
+## 7
 
 Write a function expression that creates a `dog` object and returns it to the caller. The `dog` object should have a method called `bark` which print `'Woof'`.
 
