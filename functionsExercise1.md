@@ -11,7 +11,7 @@ three(); // returns 3
 
 ## 2 
 
-You will be given an array of objectsrepresenting data about developers who have signed up to attend a coding meetup.
+You are given an array of objects representing data about developers who have signed up to attend a coding meetup.
 
 Your task is to return the number of JavaScript developers coming from Europe.
 
