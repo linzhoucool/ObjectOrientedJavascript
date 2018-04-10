@@ -41,17 +41,17 @@ What we want to implement out own array filter function called `myFilter`, like 
 The usage is quite simple, like:
 
 ```javascript
-[1,2,3,4].myFilter(function(num){ return num > 3})
+myFilter([1,2,3,4], function(num){ return num > 3})
 ```
 
 Let me get your started:
 
 ```javascript
-Array.prototype.myFilter = function(fn){
-  // your code here
+function myFilter(array, func) {
+  //your code here
 }
 
-console.log([1,2,3,4].myFilter((function(num){ return num > 3})) // should return [4]
+console.log(myFilter([1,2,3,4],(function(num){ return num > 3})) // should return [4]
 
 ```
 
