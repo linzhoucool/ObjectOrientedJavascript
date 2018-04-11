@@ -35,3 +35,5 @@
 [Javascript Function Closures](https://www.w3schools.com/js/js_function_closures.asp)
 
 [What is Closure](https://stackoverflow.com/questions/36636/what-is-a-closure/7464475#7464475)
+
+[Closures Exercise #1](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/closures.md)
