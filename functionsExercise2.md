@@ -88,7 +88,7 @@ function returnsFunctions() {
 
 ### 6
 
-Write a function, `numberFilter`, that takes an array of strings as an argument and returns a
+Write a function, `numberFilter`, that takes an array of numbers as an argument and returns a
 filtered array containing the same elements but with the `numbers` removed. Use Array's `filter` method
 
 Below is a list of numbers that should be removed:
@@ -102,7 +102,7 @@ For example, if this array were passed as an argument:
 
 Your function would return the following array:
 ```javascript
-[21, 6, 4, 1, 18]
+[21, 6, 4, 78, 18]
 ```
 
 ---
