@@ -34,7 +34,7 @@ function second(){
   console.log(2);
 }
 
-first(second());
+first(second);
 ```
 
 ---
