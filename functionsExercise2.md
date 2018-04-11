@@ -61,7 +61,7 @@ doHomework('math', alertFinished); // You will need to change me
 
 ### 4
 
-Write a function that function that prints "Hello World" to the console. Return that function as the return value of the `returnsFunctions` function.
+Write a function that returns a function that prints "Hello World" to the console. Return that function as the return value of the `returnsFunctions` function.
 
 ```javascript
 function returnsFunctions() {
