@@ -27,3 +27,5 @@
 ### Functions at Runtime
 
 [Functions Exercise #1](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/functionsExercise1.md)
+
+[Functions Exercise #2](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/functionsExercise2.md)
