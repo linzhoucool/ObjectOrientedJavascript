@@ -31,3 +31,5 @@
 [Functions Exercise #2](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/functionsExercise2.md)
 
 [How are Callbacks used in Javascript](https://learn.co/lessons/javascript-callbacks)
+
+[Javascript Function Closures](https://www.w3schools.com/js/js_function_closures.asp)
