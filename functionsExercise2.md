@@ -2,7 +2,7 @@
 
 ---
 ### 1
-1. What is the return value of the function below? 
+1. What does the code below print out when executed?
 
 2. Write a set of steps that describes how the code below works.
 
