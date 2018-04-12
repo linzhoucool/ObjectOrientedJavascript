@@ -37,3 +37,5 @@
 [What is Closure](https://stackoverflow.com/questions/36636/what-is-a-closure/7464475#7464475)
 
 [Closures Exercise #1](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/closures.md)
+
+[What's a JavaScript Closure](https://medium.freecodecamp.org/whats-a-javascript-closure-in-plain-english-please-6a1fc1d2ff1c)
