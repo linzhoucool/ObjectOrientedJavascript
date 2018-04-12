@@ -41,7 +41,7 @@ What will the following code output when executed?
 ```javascript
 let a = 5;
 
-functio logIt() {
+function logIt() {
   let a = 12;
   console.log(a);
 }
