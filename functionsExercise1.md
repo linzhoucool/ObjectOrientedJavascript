@@ -84,7 +84,7 @@ sum(4, 6, 7, 8, 32, 45);
 --- 
 
 ## 6
-You are given an array of objects representing info about developers who have signed up to attend a coding. The list is ordered according to who signed up first.
+You are given an array of objects representing info about developers who have signed up to attend a coding meetup. The list is ordered according to who signed up first.
 
 Your task is to return one of the following strings:
 
