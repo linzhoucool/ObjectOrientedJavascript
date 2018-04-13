@@ -57,10 +57,10 @@ setTimeout(
 
 ## 4 
 
-Given the following code, and the expected outputs, write the `FullName` function. 
+Given the following code, and the expected outputs, write the `fullName` function. 
 
 ```javascript
 var lastName = fullName("Abe");
-lastName("Lincoln"); // John Lincoln
-lastName("Simpson"); // John Simpson
+lastName("Lincoln"); // Abe Lincoln
+lastName("Simpson"); // Abe Simpson
 ```
