@@ -62,5 +62,5 @@ Given the following code, and the expected outputs, write the `FullName` functio
 ```javascript
 var lastName = fullName("Abe");
 lastName("Lincoln"); // John Lincoln
-lastName("Simpson); // John Simpson
+lastName("Simpson"); // John Simpson
 ```
