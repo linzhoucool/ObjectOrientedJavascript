@@ -8,7 +8,7 @@ The solution should be submitted as `.zip` file that includes only your `.js` fi
 
 The `.zip` file should contain your first and last name.
 
-A `.zip` file containing all your solution files should be uploaded to the [Assignment #1 Dropbox link](https://www.dropbox.com/request/xm0ZCaVGBcR7rbPQtG0k), no later than 8:45 AM, Tuesday, April 16th, 2018
+A `.zip` file containing all your solution files should be uploaded to the [Assignment #2 Dropbox link](https://www.dropbox.com/request/xm0ZCaVGBcR7rbPQtG0k), no later than 8:45 AM, Tuesday, April 16th, 2018
 
 You can NOT submit more than 1 file. 
 
