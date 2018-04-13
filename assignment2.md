@@ -48,7 +48,9 @@ Write a function called `printAndCount`, that returns an anonymous function. The
 Write an immediately invoked function expression that returns a function that prints "Hello World". This IIFE should be used in a setTime out which waits 2 seconds before it executes.
 
 ```javascript
-setTimeout(//put your IFFE here, 2000 )
+setTimeout(
+  //put your IFFE here
+  , 2000 )
 ```
 
 ---
