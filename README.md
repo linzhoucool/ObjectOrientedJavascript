@@ -39,3 +39,5 @@
 [Closures Exercise #1](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/closures.md)
 
 [What's a JavaScript Closure](https://medium.freecodecamp.org/whats-a-javascript-closure-in-plain-english-please-6a1fc1d2ff1c)
+
+[Assignment #2](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/assignment2.md)
