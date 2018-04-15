@@ -1,6 +1,6 @@
 # Object Constructors
 
-Convert the Javascript below to use a constructor. Call the constructor `Car`. Re-create each car by passing in parameters to the constructor to properly customize each of the properties.
+Convert the Javascript below to use a constructor. Call the constructor `Car`. Re-create each of the cars by passing in parameters to the constructor to properly customize each of the properties. Move the `changeColor` to the objects by including as a method in the constructor.
 
 ```javascript
 const corolla = {
