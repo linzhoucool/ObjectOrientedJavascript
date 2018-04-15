@@ -41,3 +41,9 @@
 [What's a JavaScript Closure](https://medium.freecodecamp.org/whats-a-javascript-closure-in-plain-english-please-6a1fc1d2ff1c)
 
 [Assignment #2](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/assignment2.md)
+
+### Objects and Classes
+
+[W3 Schools Javascript Constructors](https://www.w3schools.com/js/js_object_constructors.asp)
+
+[Constructor Exercise](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/constructorExercise.md)
