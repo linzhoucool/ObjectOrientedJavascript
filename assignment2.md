@@ -29,7 +29,7 @@ function printsThings(){
 // update me - end
 
 function myName(name){
-  returns name
+  return name
 }
 
 //invoke printThings in this area here.
