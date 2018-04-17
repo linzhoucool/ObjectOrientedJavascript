@@ -50,4 +50,4 @@
 
 [This Review](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/thisReview.md)
 
-[This Exercise](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/thisMethods.md)
+[This Methods](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/thisMethods.md)
