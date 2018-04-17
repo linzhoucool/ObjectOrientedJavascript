@@ -47,3 +47,5 @@
 [W3 Schools Javascript Constructors](https://www.w3schools.com/js/js_object_constructors.asp)
 
 [Constructor Exercise](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/constructorExercise.md)
+
+[A quick this Review](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/thisReview.md)
