@@ -49,3 +49,5 @@
 [Constructor Exercise](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/constructorExercise.md)
 
 [This Review](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/thisReview.md)
+
+[This Exercise](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/thisMethods.md)
