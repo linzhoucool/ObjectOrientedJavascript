@@ -1,7 +1,7 @@
 
 ## 1
 
-Create an Bird class with the following properties: `legs`, `wings`, `flying`, `flies` and a method `fly()`. The method `fly()` should set flying to `true`. By default, `flying` should be `false`. Set `legs`, and `wings` to default to 2, and `flies` to true. The only problem is, some birds can't fly.
+Create an Bird class with the following properties: `legs`, `wings`, `flying`, `flies` and a method `fly()`. The method `fly()` should set `flying` to `true`. By default, `flying` should be `false`. Set `legs`, and `wings` to default to 2, and `flies` to true. The only problem is, some birds can't fly.
 
 Create a subclass of `Bird` called `Chicken` that inherits from `Bird`, but which has it's own properties: `color`, `name`, `species` and an overrides the property of `flies` and the method `fly()`. The default of `flies` is now `false`, and when you try to ask a chicken to fly, it just flaps it's wings and clucks.
 
