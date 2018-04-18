@@ -51,3 +51,5 @@
 [This Review](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/thisReview.md)
 
 [This Methods](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/thisMethods.md)
+
+[MDN Object Prototypes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
