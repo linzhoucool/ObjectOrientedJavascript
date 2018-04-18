@@ -52,4 +52,6 @@
 
 [This Methods](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/thisMethods.md)
 
+[Inheritance Exercise](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/InheritanceExercises.md)
+
 [MDN Object Prototypes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
