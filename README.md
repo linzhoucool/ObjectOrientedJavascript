@@ -57,3 +57,7 @@
 [MDN Object Prototypes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
 
 [Prototypes Exercise](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/PrototypeExercise.md)
+
+[Assignment #3](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/assignment3.md) 
+
+[Assignment #3 Rubric](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/SD120%20Assignment%20%233%20-%20Rubric.pdf)
