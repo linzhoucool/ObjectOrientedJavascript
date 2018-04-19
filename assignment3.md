@@ -92,7 +92,7 @@ You must add your own protype methods:
 
 It should also print out some interesting information - Which 2 characters are battling, who attacked whom and for how much potential damage?Print this out to the console.
 
-`defend` - a function that accepts 1 argument, the `damage` amount. Inside this method, you must call the `blockDamage` method on your objects prototype. You inherit this method from the character prototype. The `blockDamage` method will tell you how much of the potential damage you block with your armour, and will return the actual total damage your character will take in the battle. Your `defend` method must return this total damage amount.
+`defend` - a function that accepts 1 argument, the `damage` amount. Inside this method, you must call the `blockDamage` method on your objects prototype. You inherit this method from the character prototype. The `blockDamage` method will determine how much of the potential damage you block with your armour, and will return the actual total damage your character will take in the battle. Your `defend` method must return this total damage amount.
 
 It should also print out your characters name and how much damage was attempted, and how much was blocked. Print this out to the console.
 
