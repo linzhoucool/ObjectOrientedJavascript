@@ -70,17 +70,19 @@ const Character = function(power, armour, attackSpeed, name){
 
 ### 3
 
-You must add 2 properties to your own Constructor, the 1st is one of these 4, depending on your character class:
+You must add 2 properties to your own Constructor.
+
+The 1st property must be one of the following:
 `cloakColor` (if your an Assasin)
 `shieldColor` (if your a Fighter)
 `staffMaterial` (if your a Cleric)
 `capeColor` (if your a Mage)
 
-The 2nd, is `characterClass` which must have the value of `assassin`, `mage`, `fighter`, or `cleric`, based on the class you selected.
+The 2nd property, is `characterClass` which must have the value of `assassin`, `mage`, `fighter`, or `cleric`, based on the class you selected.
 
 ### 4
 
-Your must inherit from the Character prototype.
+Your own character must inherit from the `Character` prototype.
 
 ### 5
 
