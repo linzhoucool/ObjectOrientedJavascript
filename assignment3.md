@@ -103,3 +103,11 @@ It should also print out your character name and how much life you have left. Pr
 ### 6 
 
 Finally, create your object using your constructor, distribute your 50 points as you see fit.
+
+## Testing
+
+To test your file, download the [Assignment 3 Test](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/assignment3Test.zip) zip. Add your own file to the directory and include it in the `head` section of the `index.html` file. At the end of your `js` file, you can call the `battle(grandius, youCharactersObjectName)`. Grandius is a sample champion I created for you to battle against. **Note** you must include objects name as an argument to the `battle` function.
+
+### Special Thanks
+
+A special thanks to **Chenyu** for helping put together the source code for the battle arena.
