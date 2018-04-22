@@ -82,7 +82,7 @@ sayHello(undefined, "Over Yonder");  // "Hello Over Yonder!"
 
 ## 6 
 
-Write a function `myHouse`, that accepts 1 paramter and that satisfies the following block of code:
+Write a function `myHouse`, that accepts 1 parameter and that satisfies the following block of code:
 
 ```javascript
 myHouse({shutters: ["purple", "green", "blue"], color: "Yellow"}) // My house is Yellow with purple and green and blue shutters
