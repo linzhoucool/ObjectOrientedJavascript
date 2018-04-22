@@ -13,7 +13,7 @@ Repeat the same process, now this time use block body syntax.
 ## 3
 Convert the following functions into ES6 using it's new arrow syntax
 
-### A
+#### A
 ```javascript
 function add(a, b) {
   return a + b;
@@ -22,7 +22,7 @@ function add(a, b) {
 console.log(add(3, 4));
 ```
 
-### B
+#### B
 ```javascript
 let greeting = "Hello There!"
 
@@ -31,7 +31,7 @@ function myEs5() {
 };
 ```
 
-### C
+#### C
 ```javascript 
 let es5name = function myEs5Name(firstName, lastName) {
   return {
@@ -43,7 +43,7 @@ let es5name = function myEs5Name(firstName, lastName) {
 es5name ("Rick","Sanchez")
 ```
 
-### D
+#### D
 ```javascript
 function CounterES5() {
   this.counter = 0;
