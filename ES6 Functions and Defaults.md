@@ -79,3 +79,16 @@ sayHello(undefined, undefined); // "Hello There!"
 sayHello("Hiya", undefined);    // "Hiya There!"
 sayHello(undefined, "Over Yonder");  // "Hello Over Yonder!"
 ```
+
+## 6 
+
+Write a function `myHouse`, that accepts 1 paramter and that satisfies the following block of code:
+
+```javascript
+myHouse({shutters: ["purple", "green", "blue"], color: "Yellow"}) // My house is Yellow with purple and green and blue shutters
+myHouse({color: "Yellow", shutters: ["purple", "green", "blue"] }) // My house is Yellow with purple and green and blue shutters
+myHouse({shutters: ["green"]}) // My house is green with green shutters
+myHouse(); // My house is green with red shutters
+```
+
+
