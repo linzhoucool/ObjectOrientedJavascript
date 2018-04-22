@@ -60,3 +60,22 @@ setTimeout(function() {
 }, 1200);
 ```
 
+## 4
+
+Write a function `multiply`, that accepts 2 parameters, which both default to 1 and that satisfies the following block of code
+
+```javascript
+console.log(multiply(6, 4)) // expected output: 24
+
+console.log(multiply(7)); // expected output: 7
+```
+
+## 5
+
+Write a function `sayHello`, that accepts 2 parameters and that satisfies the following block of code:
+
+```javascript
+sayHello(undefined, undefined); // "Hello There!"
+sayHello("Hiya", undefined);    // "Hiya There!"
+sayHello(undefined, "Over Yonder");  // "Hello Over Yonder!"
+```
