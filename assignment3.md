@@ -60,7 +60,11 @@ You must create a new object for your character, using a custom Constructor. You
 Your constructor must inherit from the `Character` constructor. Here it is:
 
 ```javascript
-const Character = function(power, armour, attackSpeed, name){
+const Character = function (power, armour, attackSpeed, name, characterClass) {
+  const lifeList = {assassin: 60, mage: 80, fighter: 120, cleric: 100};
+
+  this.characterClass = characterClass
+  this.life = lifeList[this.characterClass];
   this.power = power;
   this.armour = armour;
   this.attackSpeed = attackSpeed;
