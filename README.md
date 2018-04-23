@@ -63,3 +63,7 @@
 [Assignment #3 Rubric](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/SD120%20Assignment%20%233%20-%20Rubric.pdf)
 
 [Prototype Subclass Exercises](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/PrototypeSubclassExercises.md)
+
+## Function
+
+[Function and Defaults Exercises](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/ES6%20Functions%20and%20Defaults.md)
