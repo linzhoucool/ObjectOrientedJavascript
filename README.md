@@ -64,6 +64,8 @@
 
 [Prototype Subclass Exercises](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/PrototypeSubclassExercises.md)
 
-## Function
+## ES6 Functions
 
 [Function and Defaults Exercises](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/ES6%20Functions%20and%20Defaults.md)
+
+[Classes and Sub-Classes](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/ES6Classes.md)
