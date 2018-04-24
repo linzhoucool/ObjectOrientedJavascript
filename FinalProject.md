@@ -47,3 +47,11 @@ Looking at the `Enemy.prototype.render` function, what can we determine about po
 ### Moving the Characters
 Games are built with frames. Many small movements of a over the course of many frames makes it seem like objects
 are moving. We need to determine the how big (or small) this movement must be, from the left to right of the canvas. Think of this as the speed of your enemy and player. Every few hundred millisecods the Udacity `engine.js` file will call the `update` method that we write, so determining movement and collisions should happen inside this method.
+
+### Random Number Generator
+Use this function to generate a random number between a min and max number if your looking for a way to create a little bit of randomness in your program.
+```javascript
+function randomNumber(min, max) {
+  return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+```
