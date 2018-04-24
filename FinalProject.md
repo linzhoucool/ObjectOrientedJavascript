@@ -1,9 +1,30 @@
-# SD-120 Final Project: Classic Arcade Game Clone
+### SD-120 
 
-1. When your character wins, you must alert "You Win!".
-2. You should create levels, where each level your enemies move faster. The current level should be displayed at the top of the screen.
-3. When you reach the water, you pass the level. If you collide with an enemy you start back at level one.
-4. You should track, maintain and display the highest level obtained.
+# Final Project: Classic Arcade Game Clone
+
+Download the [Final Project Zip] (https://github.com/udacity/frontend-nanodegree-arcade-game/archive/master.zip) file from Udacity.
+
+The starter project has a single HTML file, coupled with CSS, JS and Images directory. The files we most interested in updating are the   `style.css`, `index.html`, and `app.js`, depending on what changes we are would like to make. You may also consider update `engine.js` if you are interested in changing your assets. Be careful though, making a mistake in `engine.js` can cause your entire to stop working.
+
+
+## Project Requirements
+
+### Player Movements
+
+Player can not move off screen
+Vehicles cross the screen
+Vehicle-player collisions happen logically (not too early or too late)
+Vehicle-player collision resets the game
+Something happens when player wins
+
+### Enemy Movements
+
+### Levels
+1. You should create levels. Players start at level 1, and each time your player successfully crosses to the water, the level increases. With each level increase, the speed at which the enemies move should increase. The current level should always be displayed at the top of the page.
+2. If a player collides with an enemy, they revert back to level 1.
+3. You should track, maintain and display the highest level obtained in a single session.
+
+
 
 ## TIPS:
 
