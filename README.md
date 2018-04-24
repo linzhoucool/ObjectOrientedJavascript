@@ -72,4 +72,4 @@
 
 [MDN Docs on ES6 Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 
-Check the TL:DR [Arguments against ES6 Classes](https://github.com/joshburgess/not-awesome-es6-classes)
+Check the `TL;DR` [Arguments against ES6 Classes](https://github.com/joshburgess/not-awesome-es6-classes)
