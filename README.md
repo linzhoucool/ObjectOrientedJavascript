@@ -79,3 +79,5 @@ Check the `TL;DR` [Arguments against ES6 Classes](https://github.com/joshburgess
 [Another ES Class Article](https://medium.com/@rajaraodv/is-class-in-es6-the-new-bad-part-6c4e6fe1ee65)
 
 [JS Info Classes](https://javascript.info/class)
+
+[ES6 Classes and Subclasses In Class Example](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/ES6Classes.md)
