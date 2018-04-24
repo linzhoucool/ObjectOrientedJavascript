@@ -68,6 +68,8 @@
 
 [Function and Defaults Exercises](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/ES6%20Functions%20and%20Defaults.md)
 
+[Function and Defaults Exercises Solution](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/functionAndDefaultParamtersSoln.js)
+
 [Classes and Sub-Classes Exercise](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/ES6Classes.md)
 
 [MDN Docs on ES6 Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
