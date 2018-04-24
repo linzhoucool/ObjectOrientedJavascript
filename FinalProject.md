@@ -31,7 +31,7 @@ The starter project has a single HTML file, coupled with CSS, JS and Images dire
 
 * The solution should be submitted as `.zip` file that includes the `HTML`, `JS` and `CSS` files. 
 * The `.zip` file should contain your first and last name.
-* Your `.zip` file should be uploaded to the Final Project Dropbox link, which will be provided via the course website, no later than 8:45 AM, Tuesday, May 1st, 2018
+* Your `.zip` file should be uploaded to the [Final Project Dropbox link](https://www.dropbox.com/request/pRx8bO17SyUjGzKFysuq), no later than 8:45 AM, Tuesday, May 1st, 2018
 * You can NOT submit more than 1 file. 
 * See [Final Project rubric](https://github.com/jniziol/JavascriptBasics/raw/master/Final%20Project%20Rubric.pdf) for more evaluation criteria.* 
 **NO LATE ASSIGNMENTS WILL BE ACCEPTED**
