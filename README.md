@@ -80,4 +80,4 @@ Check the `TL;DR` [Arguments against ES6 Classes](https://github.com/joshburgess
 
 [JS Info Classes](https://javascript.info/class)
 
-[ES6 Classes and Subclasses In Class Example](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/ES6Classes.md)
+[ES6 Classes and Subclasses In Class Example](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/ES6classes.js)
