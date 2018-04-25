@@ -82,8 +82,14 @@ Check the `TL;DR` [Arguments against ES6 Classes](https://github.com/joshburgess
 
 [ES6 Classes and Subclasses In Class Example](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/ES6classes.js)
 
+## Promises and Proxies
+
+[Further Reading on Promises](http://jamesknelson.com/grokking-es6-promises-the-four-functions-you-need-to-avoid-callback-hell/)
+
 ## Final Project
 
 [Extra Project Assets](http://www.lostgarden.com/2007/05/dancs-miraculously-flexible-game.html)
 
 [Project Guidelines](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/FinalProject.md)
+
+
