@@ -76,7 +76,7 @@ daughter.work();
 ```
 
 ## 2 
-Write a method `lookupPrice` which returns a promise and will run the success function, printing `"The price is $5.00"` for any item with an even item ID, and will run the failure function for any item that has an odd itemID.
+Write a function called `lookupPrice` which returns a promise and will run the success function, printing `"The price is $5.00"` for any item with an even item ID, and will run the failure function for any item that has an odd itemID.
 
 ```javascript
 lookupPrice(123).then((price) => {
