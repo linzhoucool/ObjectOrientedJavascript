@@ -30,5 +30,3 @@ console.log(proxy[2])
 console.log(proxy[3])
 ```
 
-## 3
-
