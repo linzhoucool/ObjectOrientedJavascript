@@ -30,3 +30,17 @@ console.log(proxy[2])
 console.log(proxy[3])
 ```
 
+## 3
+
+Determine how to use the function `delayedUpperCase`, which returns a promise. Demostrate your understanding by printing out an uppercase "HI THERE" to the console upon successful promise resolution and "Sad Day" when it fails.
+
+```javascript
+const delayedUpperCase = param => {
+  return new Promise( (resolve, reject) => {
+    setTimeout(() => {
+      (typeof param === 'string') ? resolve(param.toUpperCase()) : reject(param);
+    }, 500);
+  });
+};
+
+```
