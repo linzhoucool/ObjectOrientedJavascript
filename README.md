@@ -88,7 +88,7 @@ Check the `TL;DR` [Arguments against ES6 Classes](https://github.com/joshburgess
 
 ## Promises and Proxies
 
-[Further Reading on Promises](http://jamesknelson.com/grokking-es6-promises-the-four-functions-you-need-to-avoid-callback-hell/)
+[Promises for Dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)
 
 ## Final Project
 
