@@ -82,6 +82,10 @@ Check the `TL;DR` [Arguments against ES6 Classes](https://github.com/joshburgess
 
 [ES6 Classes and Subclasses In Class Example](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/ES6classes.js)
 
+## Built Ins 
+
+[Symbols and Their Uses](https://www.sitepoint.com/es6-symbols-uses/)
+
 ## Promises and Proxies
 
 [Further Reading on Promises](http://jamesknelson.com/grokking-es6-promises-the-four-functions-you-need-to-avoid-callback-hell/)
