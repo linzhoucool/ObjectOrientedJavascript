@@ -44,8 +44,6 @@ ceoPrototype = {
     }
 }
 
-CEO.prototype = ceoPrototype
-
 CEO.prototype.work = function(hours) {
     if(hours > 10)
         console.log("The CEO worked " + hours + " hours")
