@@ -8,11 +8,11 @@ The solution should be submitted as `.zip` file that includes only your `.js` fi
 
 The `.zip` file should contain your first and last name.
 
-A `.zip` file containing all your solution files should be uploaded to the [Assignment #2 Dropbox link](https://www.dropbox.com/request/xm0ZCaVGBcR7rbPQtG0k), no later than 8:45 AM, Tuesday, April 17th, 2018
+A `.zip` file containing all your solution files should be uploaded to the [Assignment #4 Dropbox link](https://www.dropbox.com/request/e7j83s3RkJOtTvci4dKS), no later than 8:45 AM, Monday, April 30th, 2018
 
 You can NOT submit more than 1 file. 
 
-See [Assignment #3 rubric](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/SD120%20Assignment%20%232%20-%20Rubric.pdf) for the evaluation criteria.
+See [Assignment #4 rubric](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/SD120%20Assignment%20%234%20-%20Rubric.pdf) for the evaluation criteria.
 
 **NO LATE ASSIGNMENTS WILL BE ACCEPTED**
 
@@ -86,3 +86,51 @@ lookupPrice(123).then((price) => {
 }) // This prints 'Sorry we were unable to find that item'
 ```
 
+## 3 
+
+Write a proxy that will let you set the CEO salary, but only if it's above 400000. It also prints out the desired message as show in the code below.
+
+```javascript
+class CEO {
+    constructor() {
+        this.salary = 450000
+        this.middleName = "Rizzle"
+        this.age = 82
+        this.previousPosition = "Administrative Assistant"
+    }
+}
+// Your code here
+
+ceoProxy.salary = 300000; // prints "Sorry, our CEO Won't work for less than $400,000"
+ceoProxy.salary = 450000; // prints "He'll start tomorrow!"
+```
+
+## 4 
+
+Convert the functions in the following code to new ES6 arrow functions.
+
+```javascript
+function Car() {
+    this.counter = 0;
+    this.driving = false;
+    this.drive = function() {
+        this.driving = true;
+    }
+}
+  
+const car = new Car
+const driveTheCar = car.drive.bind(car);
+driveTheCar();
+console.log(car.driving);
+```
+
+## 5 
+
+Write a function `car`, that satisfies the following block of code:
+
+```javascript
+car(["Jake", "John", "Jean"], "red") // prints 'My red car has the following people in the back seat Jake and John and Jean.'
+car(["George", "Grace", "Grethel"]) // prints 'My yellow car has the following people in the back seat George and Grace and Grethel.'
+car(undefined,"orange") // prints 'My orange car has the following people in the back seat Micheal and Melissa and Melanie.'
+car(); // prints 'My yellow car has the following people in the back seat Micheal and Melissa and Melanie.'
+```
