@@ -92,6 +92,8 @@ Check the `TL;DR` [Arguments against ES6 Classes](https://github.com/joshburgess
 
 [Promises and Proxies Exercises](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/promises%26proxies.md)
 
+[In Class Promise Example](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/inClassPromiseExample.js)
+
 ## Assignment 4
 
 [Assignment 4](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/assignment4.md)
