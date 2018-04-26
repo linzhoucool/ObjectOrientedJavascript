@@ -31,17 +31,17 @@ var CEO = function(firstName, lastName) {
     this.currentBankAccount = 100
 }
 
-ceoPrototype = {
-    makeMoney: function someFunction() {
-        this.currentBankAccount += 500;
-    },
-    addMoney: function(money) {
-        this.currentBankAccount += money;
-    },
-    howRichAmI: function() {
-        console.log("I'm very rich.")
-        return this.currentBankAccount;
-    }
+CEO.prototype.makeMoney = function someFunction() {    
+    this.currentBankAccount += 500;
+}
+
+CEO.prototype.addMoney: function(money) {
+    this.currentBankAccount += money;
+}
+
+CEO.prototype.howRichAmI: function() {
+    console.log("I'm very rich.")
+    return this.currentBankAccount;
 }
 
 CEO.prototype.work = function(hours) {
