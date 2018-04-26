@@ -90,6 +90,12 @@ Check the `TL;DR` [Arguments against ES6 Classes](https://github.com/joshburgess
 
 [Promises for Dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)
 
+[Promises and Proxies Exercises](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/promises%26proxies.md)
+
+## Assignment 4
+
+[Assignment 4](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/assignment4.md)
+
 ## Final Project
 
 [Extra Project Assets](http://www.lostgarden.com/2007/05/dancs-miraculously-flexible-game.html)
